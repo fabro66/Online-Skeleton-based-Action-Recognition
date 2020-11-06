@@ -12,7 +12,7 @@ indicate that the proposed method achieves competitive performance comparison to
 50×less computational complexity.
 
 ## Online Skeleton-based Action Recognition with A Single RGB Camera
-![Online-Skeleton-base-Action-Recognition](./results/online_act_recog.gif)
+![Online-Skeleton-base-Action-Recognition](./images/online_act_recog.gif)
 
 ## Prerequisites
 The code is built with the following libraries:
@@ -23,7 +23,7 @@ The code is built with the following libraries:
 
 ### NTU-GAST Skeleton dataset
 <div align=center>
-<img src="./results/ntu-gast-skeleton.png" style="zoom:5%" alt="Samples of NTU-GAST Skeleton dataset"/>
+<img src="./images/ntu-gast-skeleton.png" style="zoom:5%" alt="Samples of NTU-GAST Skeleton dataset"/>
 </div>
 
 - Download [NTU-GAST Skeleton](https://pan.baidu.com/s/1l-xAiTJq-9mOQpwf59naEA) dataset from Baidu drive. Extraction code:3bid
