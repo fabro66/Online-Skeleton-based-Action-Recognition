@@ -23,7 +23,7 @@ The code is built with the following libraries:
 
 ### NTU-GAST Skeleton dataset
 <div align=center>
-<img src="./results/ntu-gast-skeleton.png" style="zoom:10%" alt="Samples of NTU-GAST Skeleton dataset"/>
+<img src="./results/ntu-gast-skeleton.png" style="zoom:5%" alt="Samples of NTU-GAST Skeleton dataset"/>
 </div>
 
 - Download [NTU-GAST Skeleton](https://pan.baidu.com/s/1l-xAiTJq-9mOQpwf59naEA) dataset from Baidu drive. Extraction code:3bid
