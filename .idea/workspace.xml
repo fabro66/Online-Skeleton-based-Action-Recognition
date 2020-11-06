@@ -4,16 +4,6 @@
     <list default="true" id="d4d385af-51df-4631-805b-cc9d65defb3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/get_raw_denoised_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/get_raw_skes_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/seq_transformation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/camera.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/label.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/performer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/replication.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/samples_with_missing_skeletons.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/setup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ntu/statistics/skes_available_name.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="456">
-                <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="72" />
+              <first_editor relative-caret-position="787">
+                <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -189,7 +179,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Append/Paper/ACCV/GAST-Net" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -253,12 +243,12 @@
       <option name="presentableId" value="Default" />
       <updated>1604541340972</updated>
       <workItem from="1604541343235" duration="2603000" />
-      <workItem from="1604646227851" duration="5295000" />
+      <workItem from="1604646227851" duration="6276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7898000" />
+    <option name="totallyTimeSpent" value="8879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1202" extended-state="6" />
@@ -374,8 +364,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="72" />
+          <first_editor relative-caret-position="787">
+            <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
