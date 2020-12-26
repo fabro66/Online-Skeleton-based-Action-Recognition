@@ -29,7 +29,7 @@ The code is built with the following libraries:
 <img src="./images/ntu-gast-skeleton.png" style="zoom:80%" alt="Samples of NTU-GAST Skeleton dataset"/>
 </div>
 
-- Download [NTU-GAST Skeleton](https://pan.baidu.com/s/1l-xAiTJq-9mOQpwf59naEA) dataset from Baidu drive. Extraction code:3bid
+- Download [NTU-GAST Skeleton](https://pan.baidu.com/s/1l-xAiTJq-9mOQpwf59naEA) dataset from Baidu drive. Extraction code:3bid. Google drive: [NTU-GAST Skeleton](https://drive.google.com/file/d/1y846b2SA3RqJYovHGfAEyQzMuEnXKVhx/view?usp=sharing)
 - Extract the dataset to ./data/NTU-GAST-Skeleton
 - We use the dataset of GAST60 (NTU-GAST60 Skeleton) as an example for description.
 ```bash
